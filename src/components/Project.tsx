@@ -1,11 +1,11 @@
 import React from "react";
-import checkers from '../assets/images/checkers.png';
-import mitron from '../assets/images/mitron_bank.png';
-import bi360 from '../assets/images/bi360.png';
-import mock03 from '../assets/images/mock03.png';
-import mock05 from '../assets/images/mock05.png';
-import mock10 from '../assets/images/mock10.png';
-import slr from '../assets/images/slr.png';
+import checkers from '../assets/images/projects/checkers.png';
+import mitron from '../assets/images/projects/mitron_bank.png';
+import bi360 from '../assets/images/projects/bi360.png';
+import excel from '../assets/images/projects/excel.png';
+import mock05 from '../assets/images/projects/mock05.png';
+import mock10 from '../assets/images/projects/mock10.png';
+import slr from '../assets/images/projects/slr.png';
 import '../assets/styles/Project.scss';
 
 function Project() {
@@ -21,7 +21,7 @@ function Project() {
             <div className="project">
                 <a href="https://app.powerbi.com/view?r=eyJrIjoiYzQ4Mzg5ZTEtMzczNS00MzBmLTk3M2YtOTdiZjYyZTQ5ZTBlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection3aac053726c8ce52444b" target="_blank" rel="noreferrer"><img src={mitron} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://app.powerbi.com/view?r=eyJrIjoiYzQ4Mzg5ZTEtMzczNS00MzBmLTk3M2YtOTdiZjYyZTQ5ZTBlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection3aac053726c8ce52444b" target="_blank" rel="noreferrer"><h2>Strategic Insight For Mitron's Bank New Credit Card Line</h2></a>
-                <p>This is a Power BI project created to help AtliQ Grand, a leading hotel chain, regain market share and increase revenue through data-driven decisions. It delivers insights into key performance metrics, revenue distribution, and booking patterns, enabling better sales strategies and operational improvements.</p>
+                <p>This project involved analyzing a sample dataset of 4,000 customers across five cities to uncover key insights on online spending patterns and customer behavior. The findings guided strategic recommendations on product features and target markets, successfully demonstrating capability to deliver actionable, data-driven solutions and earning the trust of Mitron Bank’s strategy team for further collaboration.</p>
                 {/* <p>This is a Power BI project created to help AtliQ Grand, a leading hotel chain, regain market share and increase revenue through data-driven decisions. It delivers insights into key performance metrics, revenue distribution, and booking patterns, enabling better sales strategies and operational improvements.</p> */}
             </div>
             <div className="project">
@@ -35,7 +35,7 @@ function Project() {
                 <p>Built official charts for COVID/vaccination tracking dashboard for an educational institution using the Google Sheets API v4. The dashboard served the university's leadership in their decision-making processes.</p>
             </div>
              <div className="project">
-                <a href="https://holokai.byuh.edu/programs-of-study" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://holokai.byuh.edu/programs-of-study" target="_blank" rel="noreferrer"><img src={excel} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://holokai.byuh.edu/programs-of-study" target="_blank" rel="noreferrer"><h2>Sales and Financial Analytics Report in Excel (FMCG)</h2></a>
                 <p>This is a project that leverages pivot tables, Power Query, and basic DAX functions to deliver actionable insights into customer discounts, negotiation strategies, and untapped markets. Designed to help businesses optimize sales efforts, it provides data-driven recommendations to enhance tactics, improve customer experiences, and boost revenue.</p>
             </div>

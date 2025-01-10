@@ -1,10 +1,10 @@
 import React from "react";
-import cutecharts from '../assets/images/cutecharts.webp';
-import counter_loop from '../assets/images/counter.png';
-import pregex from '../assets/images/pregex.webp';
-import snoop from '../assets/images/snoop.png';
-import repr from '../assets/images/repr_v_str.png';
-import isinstance from '../assets/images/isinstance.png';
+import cutecharts from '../assets/images/blog/cutecharts.webp';
+import counter_loop from '../assets/images/blog/counter.png';
+import pregex from '../assets/images/blog/pregex.webp';
+import snoop from '../assets/images/blog/snoop.png';
+import repr from '../assets/images/blog/repr_v_str.png';
+import isinstance from '../assets/images/blog/isinstance.png';
 import '../assets/styles/Blog.scss';
 
 function Blog() {
