@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.4e89971e.css",
-    "main.js": "/static/js/main.b556bbf6.js",
+    "main.js": "/static/js/main.64874307.js",
     "static/js/453.58b0f5d5.chunk.js": "/static/js/453.58b0f5d5.chunk.js",
     "static/media/slr.png": "/static/media/slr.debca3bc7fa4efe02dd4.png",
     "static/media/mitron_bank.png": "/static/media/mitron_bank.3e17dfd4a980b4c9cc65.png",
     "static/media/checkers.png": "/static/media/checkers.df00273a08a21b4208b9.png",
     "static/media/bi360.png": "/static/media/bi360.e92fe6091acfbcbbe883.png",
+    "static/media/excel.png": "/static/media/excel.ba1d2d596cdcd39a3bda.png",
     "static/media/repr_v_str.png": "/static/media/repr_v_str.96a1e0bc66460eb0fd30.png",
     "static/media/mock10.png": "/static/media/mock10.2d05b02ba569a430a255.png",
     "static/media/counter.png": "/static/media/counter.a678aa3a56e1e8f7097e.png",
@@ -16,16 +17,15 @@
     "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
     "static/media/mock05.png": "/static/media/mock05.4faafa70d200d1519a34.png",
     "static/media/bg-dark.png": "/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/mock03.png": "/static/media/mock03.a4600719e0b5d2a3155b.png",
     "static/media/pregex.webp": "/static/media/pregex.4908b451042ac0f2fe4c.webp",
     "static/media/cutecharts.webp": "/static/media/cutecharts.b4df7f3a182fc87fc644.webp",
     "index.html": "/index.html",
     "main.4e89971e.css.map": "/static/css/main.4e89971e.css.map",
-    "main.b556bbf6.js.map": "/static/js/main.b556bbf6.js.map",
+    "main.64874307.js.map": "/static/js/main.64874307.js.map",
     "453.58b0f5d5.chunk.js.map": "/static/js/453.58b0f5d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e89971e.css",
-    "static/js/main.b556bbf6.js"
+    "static/js/main.64874307.js"
   ]
 }
