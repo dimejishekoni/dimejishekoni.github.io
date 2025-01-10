@@ -1,6 +1,7 @@
 import React from "react";
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
+// import MediumIcon from '@mui/icons-material/Medium';
 import '../assets/styles/Footer.scss'
 
 function Footer() {

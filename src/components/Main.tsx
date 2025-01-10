@@ -2,7 +2,7 @@ import React from "react";
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import '../assets/styles/Main.scss';
-import profile_pic_2 from '../assets/images/profile_pic_2.jpg';
+import profile_pic from '../assets/images/profile_pic.jpg';
 
 
 function Main() {
@@ -11,7 +11,7 @@ function Main() {
     <div className="container">
       <div className="about-section">
         <div className="image-wrapper">
-          <img src={profile_pic_2} alt="Avatar" />
+          <img src={profile_pic} alt="Avatar" />
         </div>
         <div className="content">
           <div className="social_icons">
