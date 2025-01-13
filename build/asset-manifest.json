@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c3f1e99c.css",
-    "main.js": "/static/js/main.ab869e68.js",
+    "main.js": "/static/js/main.0ddffc94.js",
     "static/js/453.58b0f5d5.chunk.js": "/static/js/453.58b0f5d5.chunk.js",
     "static/media/slr.png": "/static/media/slr.debca3bc7fa4efe02dd4.png",
     "static/media/mitron_bank.png": "/static/media/mitron_bank.3e17dfd4a980b4c9cc65.png",
@@ -21,11 +21,11 @@
     "static/media/cutecharts.webp": "/static/media/cutecharts.b4df7f3a182fc87fc644.webp",
     "index.html": "/index.html",
     "main.c3f1e99c.css.map": "/static/css/main.c3f1e99c.css.map",
-    "main.ab869e68.js.map": "/static/js/main.ab869e68.js.map",
+    "main.0ddffc94.js.map": "/static/js/main.0ddffc94.js.map",
     "453.58b0f5d5.chunk.js.map": "/static/js/453.58b0f5d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3f1e99c.css",
-    "static/js/main.ab869e68.js"
+    "static/js/main.0ddffc94.js"
   ]
 }
