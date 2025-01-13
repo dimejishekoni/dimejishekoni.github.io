@@ -35,8 +35,8 @@ function Project() {
                 <p>Built official charts for COVID/vaccination tracking dashboard for an educational institution using the Google Sheets API v4. The dashboard served the university's leadership in their decision-making processes.</p>
             </div>
              <div className="project">
-                <a href="https://holokai.byuh.edu/programs-of-study" target="_blank" rel="noreferrer"><img src={excel} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://holokai.byuh.edu/programs-of-study" target="_blank" rel="noreferrer"><h2>Sales and Financial Analytics Report in Excel (FMCG)</h2></a>
+                <a href="https://github.com/dimejishekoni/Excel-Sales-Finance-Analytics" target="_blank" rel="noreferrer"><img src={excel} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/dimejishekoni/Excel-Sales-Finance-Analytics" target="_blank" rel="noreferrer"><h2>Sales and Financial Analytics Report in Excel (FMCG)</h2></a>
                 <p>This is a project that leverages pivot tables, Power Query, and basic DAX functions to deliver actionable insights into customer discounts, negotiation strategies, and untapped markets. Designed to help businesses optimize sales efforts, it provides data-driven recommendations to enhance tactics, improve customer experiences, and boost revenue.</p>
             </div>
             <div className="project">
