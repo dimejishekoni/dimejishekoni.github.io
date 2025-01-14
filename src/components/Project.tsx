@@ -19,8 +19,8 @@ function Project() {
                 <p>This is a comprehensive Power BI project that showcases dashboards for Finance, Sales, Supply Chain, Marketing, and Executive operations, providing actionable insights to optimize decision-making across various business sectors.</p>
             </div>
             <div className="project">
-                <a href="https://app.powerbi.com/view?r=eyJrIjoiYzQ4Mzg5ZTEtMzczNS00MzBmLTk3M2YtOTdiZjYyZTQ5ZTBlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection3aac053726c8ce52444b" target="_blank" rel="noreferrer"><img src={mitron} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://app.powerbi.com/view?r=eyJrIjoiYzQ4Mzg5ZTEtMzczNS00MzBmLTk3M2YtOTdiZjYyZTQ5ZTBlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection3aac053726c8ce52444b" target="_blank" rel="noreferrer"><h2>Strategic Insight For Mitron's Bank New Credit Card Line</h2></a>
+                <a href="https://mavenanalytics.io/project/24843" target="_blank" rel="noreferrer"><img src={mitron} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://mavenanalytics.io/project/24843" target="_blank" rel="noreferrer"><h2>Strategic Insight For Mitron's Bank New Credit Card Line</h2></a>
                 <p>This project involved analyzing a sample dataset of 4,000 customers across five cities to uncover key insights on online spending patterns and customer behavior. The findings guided strategic recommendations on product features and target markets, successfully demonstrating capability to deliver actionable, data-driven solutions and earning the trust of Mitron Bank’s strategy team for further collaboration.</p>
                 {/* <p>This is a Power BI project created to help AtliQ Grand, a leading hotel chain, regain market share and increase revenue through data-driven decisions. It delivers insights into key performance metrics, revenue distribution, and booking patterns, enabling better sales strategies and operational improvements.</p> */}
             </div>
