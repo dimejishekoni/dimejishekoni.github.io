@@ -5,6 +5,7 @@ import bi360 from '../assets/images/projects/bi360.png';
 import excel from '../assets/images/projects/excel.png';
 import mock05 from '../assets/images/projects/mock05.png';
 import mock10 from '../assets/images/projects/mock10.png';
+import foodtech from '../assets/images/projects/FoodTech.png';
 import slr from '../assets/images/projects/slr.png';
 import '../assets/styles/Project.scss';
 
@@ -13,6 +14,11 @@ function Project() {
     <div className="projects-container" id="projects">
         <h1>Personal Projects</h1>
         <div className="projects-grid">
+            <div className="project">
+                <a href="https://github.com/dimejishekoni/FoodTech-A-B-Test" target="_blank" rel="noreferrer"><img src={foodtech} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/dimejishekoni/FoodTech-A-B-Test" target="_blank" rel="noreferrer"><h2>A/B Test Analysis on FoodTech Company</h2></a>
+                <p>This project analyzes an A/B test conducted by a UK-based foodtech company to evaluate the impact of larger food images on restaurant menu cards on user experience and conversion rates. The goal is to determine if increasing image size helps users make quicker purchasing decisions and improves order completion rates.</p>
+            </div>
             <div className="project">
                 <a href="https://app.powerbi.com/view?r=eyJrIjoiMzkzNjkxMjgtNmI0Ny00ZDIyLWI1MTgtYmNiOTMyOGMyMzRiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" target="_blank" rel="noreferrer"><img src={bi360} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://app.powerbi.com/view?r=eyJrIjoiMzkzNjkxMjgtNmI0Ny00ZDIyLWI1MTgtYmNiOTMyOGMyMzRiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" target="_blank" rel="noreferrer"><h2>Business Insight 360</h2></a>
