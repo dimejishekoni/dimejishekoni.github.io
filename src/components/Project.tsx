@@ -35,11 +35,11 @@ function Project() {
                 <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><h2>Filmate AI</h2></a>
                 <p>Developed movie finder app with semantic search and sentiment analysis using OpenAI GPT-3.5 Turbo, Qdrant, React, and Flask.</p>
             </div>
-            <div className="project">
+            {/* <div className="project">
                 <a href="https://www.byuh.edu/covid-19-case-management" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://www.byuh.edu/covid-19-case-management" target="_blank" rel="noreferrer"><h2>COVID-19 Case Management</h2></a>
                 <p>Built official charts for COVID/vaccination tracking dashboard for an educational institution using the Google Sheets API v4. The dashboard served the university's leadership in their decision-making processes.</p>
-            </div>
+            </div> */}
              <div className="project">
                 <a href="https://github.com/dimejishekoni/Excel-Sales-Finance-Analytics" target="_blank" rel="noreferrer"><img src={excel} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://github.com/dimejishekoni/Excel-Sales-Finance-Analytics" target="_blank" rel="noreferrer"><h2>Sales and Financial Analytics Report in Excel (FMCG)</h2></a>
