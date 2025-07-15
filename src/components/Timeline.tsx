@@ -11,16 +11,30 @@ function Timeline() {
     <div id="history">
       <div className="items-container">
         <h1>Career History</h1>
-        <VerticalTimeline>
+        <VerticalTimeline>          
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="2024 - present"
+            date="2024 - 2024"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Data Analyst</h3>
+            <h3 className="vertical-timeline-element-title">Custmoer Service Assistant 2</h3>
+            <h4 className="vertical-timeline-element-subtitle">Transport for London</h4>
+            <p>
+              Customer Support, Problem Solving, Communication Skills
+            </p>
+          </VerticalTimelineElement>
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
+            contentArrowStyle={{ borderRight: '7px solid  white' }}
+            date="2024 - 2024"
+            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+          >
+            <h3 className="vertical-timeline-element-title">Data Analyst Volunteer</h3>
             <h4 className="vertical-timeline-element-subtitle">VR Superstore</h4>
             <p>
               Data Analytics & Automation, Machine Learning, Business Intelligence
